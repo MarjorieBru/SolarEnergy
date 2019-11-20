@@ -1,0 +1,2 @@
+Ce fichier est créé pour expliquer que l'énergie d'un photon 
+dépend de sa longueur d'onde.
